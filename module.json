@@ -1,0 +1,8 @@
+{
+  "dependencies": {},
+  "description": "This tutorial covers the basics of using Veneer and creating programs.",
+  "license": "https://www.eclipse.org/legal/epl-v10.html",
+  "name": "veneer-tutorial",
+  "url": "https://kronoslang.io",
+  "version": "0.1"
+}
